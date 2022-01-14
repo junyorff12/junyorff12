@@ -1,16 +1,15 @@
-### Hi there 👋
+# Antonio Silva Junyor 
 
-<!--
-**junyorff12/junyorff12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Specialist at Maida Health | Self Taught Front End Developer
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@JunyorSilvaFF12-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/JunyorSilvaFF12)](https://twitter.com/JunyorSilvaFF12) 
+[![Linkedin Badge](https://img.shields.io/badge/-Antonio%20Silva%20Junyor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-silva-junyor-9344a1a0//)](https://www.linkedin.com/in/antonio-silva-junyor-9344a1a0//) 
+[![Gmail Badge](https://img.shields.io/badge/-junyorff12@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junyorff12@gmail.com)](mailto:junyorff12@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enthusiast of the best web & mobile development technologies.
+
+Web, mobile, Agile.
+
+Passionate about learn.
+
+
