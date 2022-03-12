@@ -9,7 +9,7 @@ Product Specialist at Maida Health | Self Taught Web Developer | Majoring in Com
 
 Enthusiast of the best web development technologies.
 
-:electron: ReactJs 🟪Redux 🟦 Typescript :chestnut:Sass 💅Styled Components
+:electron: ReactJs 🟪Redux 🟦 Typescript 💅Styled Components
 
 Web, Mobile, Agile.
 
