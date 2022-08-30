@@ -1,6 +1,6 @@
 # Antonio Silva Junyor 
 
-Product Specialist at Maida Health | Self Taught Web Developer - Ruby On Rails & ReactJs | Majoring in Computer Science 2023 :tada:
+Product Specialist at Maida Health | Self Taught Mobile / Web Developer - Kotlin / Java - Android | Majoring in Computer Science 2023 :tada:
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@JunyorSilvaFF12-61DAFB?style=flat-square&labelColor=61DAFB&logo=twitter&logoColor=white&link=https://twitter.com/JunyorSilvaFF12)](https://twitter.com/JunyorSilvaFF12) 
@@ -9,7 +9,7 @@ Product Specialist at Maida Health | Self Taught Web Developer - Ruby On Rails &
 
 Enthusiast of the best web development technologies.
 
-Web, Agile.
+Mobile, Web, Agile.
 
 Passionate about learn.
 
