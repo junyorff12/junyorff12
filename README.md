@@ -7,7 +7,7 @@ Software Engineer | Graduated in System Analises and Development :tada:
 
 Enthusiast of the best development technologies.
 
-Archtecture | Web | Agile.
+Archtecture | AI | Web | Agile.
 
 Passionate about learn.
 
